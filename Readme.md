@@ -3,5 +3,5 @@
 * Fast api
 * Docker
 * REST API
-* Unicorn
+* Uvicorn
 * Postgres
