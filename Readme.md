@@ -5,6 +5,7 @@
 * REST API
 * Uvicorn
 * Postgres
+* Pytest
 ## Start program
 * создание виртуального кружения 
 #### python -m venv .venv
