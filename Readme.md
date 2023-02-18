@@ -1,5 +1,5 @@
 # software engineering of control systems
-## stack
+## Technologies
 * Fast api
 * Docker
 * REST API
@@ -7,13 +7,13 @@
 * Postgres
 ## Start program
 * создание виртуального кружения 
-python -m venv .venv
+#### python -m venv .venv
 * активация окружения
-.venv/Scripts/activate
+#### .venv/Scripts/activate
 * установка зависимостей
-pip install -r requirments.txt
+#### pip install -r requirments.txt
 * запустить сервер 
-uvicorn main:app --reload
+#### uvicorn main:app --reload
 ## Start tests
 * запуск тестов для lab1
-pytest .\test\test_lab1.py 
+#### pytest .\test\test_lab1.py 
